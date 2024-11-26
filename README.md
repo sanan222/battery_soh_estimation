@@ -25,11 +25,10 @@ simpler ANN models
 | R-squared (R²)    | 0.997557                              | 0.997154                          |
 
 # Data Analysis
-![image](https://github.com/user-attachments/assets/78e9a7ba-75c5-4834-b9a9-43e1775688f5)
-Figure: Battery aging graph for different cells with different C-rates
 
-![image](https://github.com/user-attachments/assets/ed21169c-b014-49ca-bbdf-4b2b5a23dc0c)
-Figure: Cycle extraction using sliding windows technique
+| ![Battery aging graph](https://github.com/user-attachments/assets/78e9a7ba-75c5-4834-b9a9-43e1775688f5) | ![Cycle extraction](https://github.com/user-attachments/assets/ed21169c-b014-49ca-bbdf-4b2b5a23dc0c) |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Figure 1:** Battery aging graph for different cells with different C-rates | **Figure 2:** Cycle extraction using sliding windows technique |
 
 
 
